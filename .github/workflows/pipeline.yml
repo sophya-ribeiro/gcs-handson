@@ -1,4 +1,4 @@
-name: CI Pipeline - Validation
+name: CI/CD Pipeline
 on: [push, pull_request]
 
 jobs:
